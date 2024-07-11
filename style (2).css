@@ -1,0 +1,24 @@
+header {
+    color: deeppink;
+    font-size: 700%
+}
+* {
+    background: mistyrose;
+    font-family: optima;
+    font-size: 110%
+}
+p.one {
+    color: hotpink;
+    font-size: 500%
+}
+p.two,p.three {
+    color: palevioletred;
+    font-size: 140%
+}
+a{
+    color:black
+}
+p.four {
+    color:darkorchid;
+    font-size: 140%
+}
